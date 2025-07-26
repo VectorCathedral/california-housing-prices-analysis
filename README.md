@@ -1,5 +1,5 @@
 ## 🏡 California Housing Data Analysis (EDA)
-This Jupyter Notebook (california.ipynb) contains an exploratory data analysis (EDA) of the California housing dataset 📊. It demonstrates data cleaning, preprocessing, feature engineering, and correlation analysis to explore the relationships between various housing features across California 🌉.
+This Jupyter Notebook (california.ipynb) contains an exploratory data analysis (EDA) of the California housing dataset 📊. It demonstrates data cleaning, preprocessing, feature engineering, and correlation analysis to explore the relationships between various housing features across California 🌉.Our goal is to predict the price of houses using this dataset.
 
 ### 📦 Dataset Description
 The dataset provides information about housing blocks in California, with the following features:
