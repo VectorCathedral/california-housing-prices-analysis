@@ -45,12 +45,12 @@ Merge the encoded features with the dataset
 Drop the original ocean_proximity column
 
 ### 📊 4. Data Analysis
-Compute and analyze correlation matrix 🔗
+#### Compute and analyze correlation matrix 🔗
 
-(Implied) Correlation heatmap via Seaborn
+Correlation heatmap via Seaborn
 
 ### 🔄 5. Transformations
-Apply log transformations to skewed features (preparation for modeling or visualization)
+Apply log transformations to skewed features (preparation for modeling/visualization)
 
 ### 🧩 Dependencies
 Make sure you have the following installed:
